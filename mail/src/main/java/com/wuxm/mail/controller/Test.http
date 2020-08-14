@@ -1,0 +1,12 @@
+GET http://127.0.0.1:8080/sendSimpleMail
+Accept: application/json
+
+###
+GET http://127.0.0.1:8080/sendMimeMail
+Accept: application/json
+
+###
+GET http://127.0.0.1:8080/sendTemplateMail
+Accept: application/json
+
+###
